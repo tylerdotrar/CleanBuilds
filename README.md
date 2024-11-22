@@ -23,10 +23,12 @@ chmod +x build.sh
 ```
 
 **Default Kali:**
-![Before](https://cdn.discordapp.com/attachments/855920119292362802/1161890616364515359/image.png?ex=6539f1f5&is=65277cf5&hm=17f5070d313ce76c18c377cb3f1a9cb1796a0c65960e00902c0db05dae1f52ae&)
+![Before](https://github.com/user-attachments/assets/b960c56c-4516-4434-95b7-4709cd75aa60)
+
 
 **Custom i3 Kali:**
-![After](https://cdn.discordapp.com/attachments/855920119292362802/1161891853231214604/image.png?ex=6539f31c&is=65277e1c&hm=ccc2d60f09f1db8aca2dd73e3b9e1c9725de2d66987e3277d8ce58929c237bec&)
+![After](https://github.com/user-attachments/assets/16ca7037-0ed7-4972-84e2-1cdb69ec8a4a)
+
 
 **General i3 Keybindings:**
 ```
